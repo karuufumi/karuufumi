@@ -2,31 +2,6 @@
 
 I design and build software systems with a focus on backend engineering, system architecture, cloud deployment, and automated testing. Most of my work so far involves full-stack applications, RESTful APIs, database design, testing workflows, and practical software projects.
 
-## What I work on
-
-- Full-stack web applications
-- Backend APIs and database-backed systems
-- Software architecture and cloud deployment
-- Automated testing and quality assurance
-- Secure communication and privacy-aware systems
-## Selected projects
-
-### Intelligent Restaurant Management System
-
-**Stack:** React, TypeScript, NestJS, PostgreSQL, Docker, Apache Kafka, Kong Gateway
-
-### Library Management System
-
-**Stack:** .NET, FastAPI, React, PostgreSQL, MongoDB, Docker, Postman
-
-### Automated Testing for E-Commerce Website
-
-**Stack:** Python, Selenium, Pytest, WebDriver, HTML/CSS
-
-### Simple Noise Protocol Implementation
-
-**Stack:** Python, WebSocket, POSIX
-
 ## Tech
 
 **Languages**
