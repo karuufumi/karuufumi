@@ -1,7 +1,5 @@
 # Nguyễn Tiến Khang
 
-Computer Science student at Ho Chi Minh City University of Technology, VNU-HCM.
-
 I design and build software systems with a focus on backend engineering, system architecture, cloud deployment, and automated testing. Most of my work so far involves full-stack applications, RESTful APIs, database design, testing workflows, and practical software projects.
 
 ## What I work on
@@ -11,61 +9,62 @@ I design and build software systems with a focus on backend engineering, system 
 - Software architecture and cloud deployment
 - Automated testing and quality assurance
 - Secure communication and privacy-aware systems
-
 ## Selected projects
 
 ### Intelligent Restaurant Management System
-
-A full-stack restaurant management platform for menus, orders, table workflows, and administrative operations.
 
 **Stack:** React, TypeScript, NestJS, PostgreSQL, Docker, Apache Kafka, Kong Gateway
 
 ### Library Management System
 
-A hybrid academic and independent project developed through five Scrum sprints. It includes a FastAPI-based API Gateway for authentication and authorization workflows using OAuth 2.0 concepts and two-factor authentication.
-
 **Stack:** .NET, FastAPI, React, PostgreSQL, MongoDB, Docker, Postman
 
 ### Automated Testing for E-Commerce Website
-
-An end-to-end testing suite for e-commerce workflows including product browsing, search, carts, checkout, login, and form validation.
 
 **Stack:** Python, Selenium, Pytest, WebDriver, HTML/CSS
 
 ### Simple Noise Protocol Implementation
 
-A learning-oriented implementation project for understanding secure communication, handshake flows, key agreement, encryption, and authenticated message exchange.
-
 **Stack:** Python, WebSocket, POSIX
 
-## Technologies
+## Tech
 
-**Backend and databases:** NestJS, FastAPI, .NET, PostgreSQL, MongoDB, Docker, Apache Kafka, Kong Gateway
+**Languages**
 
-**Frontend and mobile:** React, TypeScript, Next.js, SwiftUI
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-**Testing:** Selenium, Pytest, Postman
+**Frameworks and tools**
 
-**Languages:** Python, TypeScript, JavaScript, C/C++, SQL, Swift, R
-
-## Currently improving
-
-- Backend and distributed-system design
-- CI/CD and cloud deployment practices
-- Automated testing workflows
-- Secure software and applied cryptography
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ## GitHub activity
 
 <img
   height="150"
-  src="https://github-readme-stats.vercel.app/api?username=karuufumi&show_icons=true&hide_title=true&hide_rank=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000&text_color=4b5563&icon_color=006cac&title_color=006cac"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=karuufumi&theme=transparent"
   alt="GitHub activity"
 />
 
 <img
   height="150"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=karuufumi&layout=compact&hide_border=true&bg_color=00000000&text_color=4b5563&title_color=006cac"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karuufumi&theme=transparent"
   alt="Most used languages"
 />
 
