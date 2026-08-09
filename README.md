@@ -34,6 +34,7 @@ I design and build software systems with a focus on backend engineering, system 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
@@ -56,17 +57,10 @@ I design and build software systems with a focus on backend engineering, system 
 
 ## GitHub activity
 
-<img
-  height="150"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=karuufumi&theme=transparent"
-  alt="GitHub activity"
-/>
-
-<img
-  height="150"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karuufumi&theme=transparent"
-  alt="Most used languages"
-/>
+<p>
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=karuufumi&theme=transparent" alt="GitHub activity" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karuufumi&theme=transparent" alt="Most used languages" />
+</p>
 
 ## Find me
 
