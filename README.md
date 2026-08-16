@@ -44,4 +44,4 @@ I particularly in building reliable, scalable and maintainable software.
 - Portfolio: [karuuntk.com](https://karuuntk.com)
 - LinkedIn: [tienkhangnguyen](https://www.linkedin.com/in/tienkhangnguyen)
 - LeetCode: [Compscicafe](https://leetcode.com/u/Compscicafe/)
-- Email: [khangtien24@gmail.com](mailto:khangtien24@gmail.com)
+- Email: [khang.nt.cswork@gmail.com](mailto:khang.nt.cswork@gmail.com)
