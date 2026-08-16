@@ -1,7 +1,9 @@
 # Nguyễn Tiến Khang
 
-I design and build software systems with a focus on backend engineering, system architecture, cloud deployment, and automated testing. Most of my work so far involves full-stack applications, RESTful APIs, database design, testing workflows, and practical software projects.
-
+<p> I am a Software Developer focusing on developing cloud-native systems and mobile applications. </p> 
+My skills range from web and mobile application development to distributed systems and cloud infrastructure.
+I particularly in building **reliable**, **scalable**, and **maintainable** software.
+<p>I'm open for Software Engineering-related Internships and Job Opportunities!</p>
 ## Tech
 
 **Languages**
