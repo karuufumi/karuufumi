@@ -4,6 +4,7 @@
 My skills range from web and mobile application development to distributed systems and cloud infrastructure.
 I particularly in building reliable, scalable and maintainable software.
 <p>I'm open for Software Engineering-related Internships and Job Opportunities!</p>
+
 ## Tech
 
 **Languages**
