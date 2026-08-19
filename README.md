@@ -17,6 +17,7 @@
 
 **Languages**
 
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -41,20 +42,6 @@
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
-## GitHub activity
-
-<p>
-  <img
-    height="150"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=karuufumi&theme=transparent"
-    alt="GitHub statistics"
-  />
-  <img
-    height="150"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karuufumi&theme=transparent"
-    alt="Most committed languages"
-  />
-</p>
 
 ## Find me
 
