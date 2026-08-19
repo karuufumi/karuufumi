@@ -3,7 +3,7 @@
 <p> I am a Software Developer focusing on developing cloud-native systems and mobile applications. </p> 
 
 <p>My skills range from web and mobile application development to distributed systems and cloud infrastructure.
-I particularly in building reliable, scalable and maintainable software.</p>
+I particularly enjoy building reliable, scalable and maintainable software.</p>
 
 <p>I'm open for Software Engineering-related Internships and Job Opportunities!</p>
 
