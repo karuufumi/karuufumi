@@ -5,8 +5,8 @@
 </p>
 
 <p>
-  My work spans web and mobile development, distributed systems, and cloud infrastructure.
-  I particularly enjoy building reliable, scalable, and maintainable software.
+  My work spans web and mobile development, distributed systems, and Applied Machine Learning Systems.
+  I particularly enjoy building reliable, scalable, and maintainable software, and deploy them to the cloud with stable monitoring and observability.
 </p>
 
 <p>
