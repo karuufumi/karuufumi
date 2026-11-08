@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  My work spans web and mobile development, distributed systems, and Applied Machine Learning Systems.
+  My work spans web development, cloud computing, and Applied Machine Learning Systems (mostly Recommender Systems and Time Series Analysis).
   I particularly enjoy building reliable, scalable, and maintainable software, and deploy them to the cloud with stable monitoring and observability.
 </p>
 
